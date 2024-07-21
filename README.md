@@ -1,6 +1,6 @@
 # index.md
 <h4>GAGANPREET KAUR</h4>
-<H5>About Me:</H5>
+<H1>About Me:</H1>
 i am currently pursuing btech in computer science engineering at guru nanak dev engineering college,ludhiana
 i passout my acadmics from senior secondary residential school for meritorious students,Ludhiana. i scored 93.4% 
 in 12th class with Non-medical stream and i passout my 10th from my village school(govt high school,sasrali colony,ludhiana) 
