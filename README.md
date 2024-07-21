@@ -16,6 +16,14 @@ this school journey is very m emorable for me. in 11th and12th i live in hostel 
  <li>crrently i learning programming language java from <b>"sky hacks"</b> by our college or from
  youtube channel <b>"Apna college" </b> </li> <br>
  </ol>
+ <h1># First Day in College</h1>
+   I was enjoyed my first day in college which is orientaion day.In this day i rach college by 9 AM early morning and go to 
+ college gurdwara sahib and heared kirtan shabad organized by our college then outside the gurdwara sahib treat for students then  we are go to college auditorium and 
+  principle welcome students of btech first year and tell us about college rules and regulations.i heared these instructions carefully and then many other professors shares there experiences of life and life during study time and guide us about future and success.i was really motivated with this speeches and in that day i learn many new thing 
+  for future.i will never forget my first day in college.this day id really memorable for me.<br>
+  <img src="C:\Users\professional  user"
+   alt="First day in college">
+<h1>#Contact Me:</h1>
 
 
 
