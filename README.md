@@ -23,9 +23,7 @@ this school journey is very m emorable for me. in 11th and12th i live in hostel 
   for future.i will never forget my first day in college.this day id really memorable for me.<br>
 <h1>#Contact Me:</h1>
 <b>Email:</b>gaganmt88@gmail.com<br>
-
-<b><Linkdin:</b>https://www.linkedin.com/in/gaganpreet-kaur-a7a816318<br>
-
+<b>Linkdin:</b>https://www.linkedin.com/in/gaganpreet-kaur-a7a816318<br>
 <b>Github:</b> https://github.com/gaganpreetkaurgndec<br>
 
 
