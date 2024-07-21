@@ -12,9 +12,9 @@ this school journey is very m emorable for me. in 11th and12th i live in hostel 
  starting to learn java online.
  <h1>Skills i Have:</h1>
  <ol>
-<l1>experience of microsoft word,excel & power point<br> </l1>
- <l2>crrently i learning programming language java from <b>"sky hacks"</b> by our college or from
- youtube channel <b>"Apna college" </b> </l2> <br>
+<li>experience of microsoft word,excel & power point<br> </li>
+ <li>crrently i learning programming language java from <b>"sky hacks"</b> by our college or from
+ youtube channel <b>"Apna college" </b> </li> <br>
  </ol>
 
 
