@@ -34,6 +34,7 @@ this school journey is very m emorable for me. in 11th and12th i live in hostel 
  <li> I like to read books</li><br>
  <li>I believe in to be true to yourself</li><br>
 </ul>
+  <h1>💙THANKS FOR VISITING MY WEBSITE💙</h1>
 
 
 
