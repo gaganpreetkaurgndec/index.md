@@ -27,6 +27,13 @@ this school journey is very m emorable for me. in 11th and12th i live in hostel 
 <li><b>Linkdin:</b>https://www.linkedin.com/in/gaganpreet-kaur-a7a816318<br></li>
 <li><b>Github:</b> https://github.com/gaganpreetkaurgndec<br></li>
 </ul>
+<h1>#Fun Facts About Me:</h1>
+<ul>
+ <li>  I love to play badminton</li><br>
+ <li> I also like cooking</li><br>
+ <li> I like to read books</li><br>
+ <li>I believe in to be true to yourself</li><br>
+</ul>
 
 
 
