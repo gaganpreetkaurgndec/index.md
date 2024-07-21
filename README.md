@@ -22,9 +22,11 @@ this school journey is very m emorable for me. in 11th and12th i live in hostel 
   principle welcome students of btech first year and tell us about college rules and regulations.i heared these instructions carefully and then many other professors shares there experiences of life and life during study time and guide us about future and success.i was really motivated with this speeches and in that day i learn many new thing 
   for future.i will never forget my first day in college.this day id really memorable for me.<br>
 <h1>#Contact Me:</h1>
-<b>Email:</b>gaganmt88@gmail.com<br>
-<b>Linkdin:</b>https://www.linkedin.com/in/gaganpreet-kaur-a7a816318<br>
-<b>Github:</b> https://github.com/gaganpreetkaurgndec<br>
+<ul>
+<li><b>Email:</b>gaganmt88@gmail.com<br></li>
+<li></li><b>Linkdin:</b>https://www.linkedin.com/in/gaganpreet-kaur-a7a816318<br></li>
+<li><b>Github:</b> https://github.com/gaganpreetkaurgndec<br></li>
+</ul>
 
 
 
