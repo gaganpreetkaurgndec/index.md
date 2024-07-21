@@ -24,7 +24,7 @@ this school journey is very m emorable for me. in 11th and12th i live in hostel 
 <h1>#Contact Me:</h1>
 <ul>
 <li><b>Email:</b>gaganmt88@gmail.com<br></li>
-<li></li><b>Linkdin:</b>https://www.linkedin.com/in/gaganpreet-kaur-a7a816318<br></li>
+<li><b>Linkdin:</b>https://www.linkedin.com/in/gaganpreet-kaur-a7a816318<br></li>
 <li><b>Github:</b> https://github.com/gaganpreetkaurgndec<br></li>
 </ul>
 
